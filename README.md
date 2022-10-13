@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Spotify Player](https://github.com/Boriwan/spotify-player)  
   
 
-- 🌱 I’m currently learning React ⚛️  
+- 🌱 I’m currently learning React and mongoDB 
   
 
 - ✨ Pineapple belongs on pizza  
@@ -56,8 +56,7 @@
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
 </div>
 
 </td></tr></table>  
@@ -68,10 +67,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boriwan&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=boriwan&show_icons=true&count_private=true&hide_border=true" /></div>
-
-<br/>  
-
 
 # <div align="center">🦦🎧</div>  
   
