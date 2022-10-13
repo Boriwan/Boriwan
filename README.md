@@ -1,7 +1,7 @@
 # **<div align="center">yo 🦦🏝</div>**  
   
 
-### <div align="left">I'm Boris, a full-stack developer, web designer, and programmer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Boris, a full-stack developer, web designer, and programmer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [Spotify Player](https://github.com/Boriwan/spotify-player)  
