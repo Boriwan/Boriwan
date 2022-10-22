@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Spotify Player](https://github.com/Boriwan/spotify-player)  
   
 
-- 🌱 I’m currently learning React and mongoDB 
+- 🌱 I’m currently learning React and Firebase 
   
 
 - ✨ Pineapple belongs on pizza  
