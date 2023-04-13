@@ -4,10 +4,10 @@
 ### <div align="center">I'm Boris, a full-stack developer, web designer, and programmer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Spotify Player](https://github.com/Boriwan/spotify-player)  
+- 🔭 I’m currently working on [uuCookbook](https://github.com/Boriwan/BCAA-Cookbook---Project-Assignment-Summer-2023-.git)  
   
 
-- 🌱 I’m currently learning React and Firebase 
+- 🌱 I’m currently learning Express.js and Figma
   
 
 - ✨ Pineapple belongs on pizza  
