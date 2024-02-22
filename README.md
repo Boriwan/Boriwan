@@ -4,10 +4,10 @@
 ### <div align="center">I'm Boris, a full-stack developer, web designer, and programmer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [uuCookbook](https://github.com/Boriwan/BCAA-Cookbook---Project-Assignment-Summer-2023-.git)  
+- 🔭 I’m currently working on [uuMorseCode](https://github.com/Boriwan/uuMorseCode)  
   
 
-- 🌱 I’m currently learning Express.js and Figma
+- 🌱 I’m currently learning Node-RED and C
   
 
 - ✨ Pineapple belongs on pizza  
