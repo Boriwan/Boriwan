@@ -18,7 +18,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🏝️  About Me</h3>
+<h3 data-importer="text" align="left">🏝️ 🦦 About Me</h3>
 
 ###
 
@@ -104,6 +104,6 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=borda2222&theme=tokyonight&count=3&width=510&radius=27&unique=1&album=1&profile=off&footer=wave)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=borda2222&width=660&radius=29&unique=1&duration=1&album=1&profile=off&bg_color=0b1e22&text_color=00f0dc&artist_color=0077ff&meta_color=0077ff&accent_color=00ffee&logo_color=00ffd5)
 
 ###
