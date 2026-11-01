@@ -104,6 +104,6 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=borda2222&width=820&radius=29&unique=1&duration=1&album=1&profile=off&bg_color=0b1e22&text_color=00f0dc&artist_color=0077ff&meta_color=0077ff&accent_color=00ffee&logo_color=00ffd5)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=borda2222&width=850&radius=29&unique=1&duration=1&album=1&profile=off&bg_color=0b1e22&text_color=00f0dc&artist_color=0077ff&meta_color=0077ff&accent_color=00ffee&logo_color=00ffd5)
 
 ###
