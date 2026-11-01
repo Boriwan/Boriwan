@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&desc=Boriwan&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
@@ -96,7 +94,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=boriwan&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/boriwan/boriwan/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
