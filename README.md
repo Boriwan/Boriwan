@@ -104,14 +104,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Bobris">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Bobris&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/boriwan/boriwan/snake-output/snake.svg" alt="Snake animation" />
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=borda2222&theme=tokyonight&count=3&width=510&radius=27&unique=1&album=1&profile=off&footer=wave)
 
 ###
