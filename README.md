@@ -22,7 +22,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Boris and I'm currently studying at Code University <><br><br>- 🔭 I’m currently working on Chickinsden<br>- 📚 I'm currently learning Laravel and Flutter<br>- ⚡ In my free time I game a lot and eat Pizza</p>
+<p data-importer="text" align="left">I'm Boris and I'm currently studying at <a href="https://code.berlin/en/">Code University <></a><br><br>- 🔭 I’m currently working on <a href="https://github.com/Boriwan/chickinsden">Chickinsden</a><br>- 📚 I'm currently learning Laravel and Flutter<br>- ⚡ In my free time I game a lot and eat Pizza</p>
 
 ###
 
